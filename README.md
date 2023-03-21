@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Max
-- 👀 I’m interested in machine learning and game dev.
 - 🌱 I’m currently learning python
